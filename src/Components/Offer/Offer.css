@@ -1,0 +1,81 @@
+.off-con {
+  width: 100%;
+  padding: 40px 220px;
+  background: #232443;
+}
+
+.off-title {
+  color: white;
+  font-size: 48px;
+}
+
+.off-box {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.off-card {
+  width: 370px;
+  height: 250px;
+  background: #ee4f3c80;
+  border-radius: 20px;
+  border-color: #ffffff;
+  padding: 20px;
+  margin-right: 60px;
+  margin-top: 30px;
+}
+
+.off-sec {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.com-name {
+  font-size: 20px;
+  color: white;
+  font-weight: 600px;
+}
+
+.position {
+  font-size: 27px;
+  color: white;
+}
+
+.info {
+  color: white;
+}
+
+.off-btn1 {
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  font-size: 14px;
+  color: white;
+  background-color: #bd428e64;
+  outline: none;
+  border: none;
+  margin: 5px 5px 5px 0px;
+}
+
+.price {
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+.all {
+  font-size: 23px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  margin-top: 80px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.all:hover {
+  color: #ee4f3c80;
+}

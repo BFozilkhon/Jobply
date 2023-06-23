@@ -1,0 +1,27 @@
+.footer {
+  padding: 40px 220px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.footer-items {
+  font-size: 19px;
+  cursor: pointer;
+}
+
+.footer-img {
+  margin-top: 20px;
+}
+
+.b {
+  font-weight: 600;
+}
+
+.footer-items:hover {
+  color: #ee4f3c;
+}
+
+.number {
+  color: #ee4f3c;
+}

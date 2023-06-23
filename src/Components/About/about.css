@@ -1,0 +1,73 @@
+.about-con {
+  padding: 0px 220px;
+  margin-top: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.box1 {
+  margin-top: 50px;
+}
+
+.box2 {
+  margin-left: 200px;
+}
+
+.title {
+  color: #353540;
+  font-size: 72px;
+  font-weight: 600px;
+}
+
+.descr {
+  font-size: 18px;
+  color: #5d5d61;
+  line-height: 34px;
+  margin-top: 40px;
+}
+
+.input-box {
+  display: flex;
+  box-shadow: 0px 30px 70px 0px #cccccc80;
+  width: 658px;
+  height: 70px;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 0px 0px 40px;
+  margin-top: 40px;
+}
+
+.input-sec {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.input-search {
+  border: none;
+  outline: none;
+  font-size: 18px;
+  color: #5d5d61;
+  width: 120px;
+}
+
+.input-btn {
+  width: 181px;
+  height: 70px;
+  border-radius: 0px 10px 10px 0px;
+  outline: none;
+  border: none;
+  background-color: #ee4f3c;
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+}
+
+.input-btn:hover {
+  cursor: pointer;
+}
+
+.input-btn:active {
+  transform: scale(0.98);
+}
